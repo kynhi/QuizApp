@@ -1,0 +1,15 @@
+.sidebar{ 
+  position:fixed; 
+  height: 100%;
+  width :160px;
+  margin-top: 55px;
+  z-index: 1; /* Stay on top */
+  top: 0; /* Stay at the top */
+  left: 0;
+  color: white;
+  background-color: black;
+}
+.quiz-content{
+  margin-left: 180px;
+  margin-top: 60px;
+}

@@ -1,0 +1,295 @@
+{
+  "id": 4,
+  "name": "AngularJS Quiz",
+  "description": "AngularJs Quiz",
+  "questions": [
+      {
+          "id": 1010,
+          "name": " Which of the following is true about AngularJS expressions?",
+          "questionTypeId": 1,
+          "options": [
+              {
+                  "id": 1055,
+                  "questionId": 1010,
+                  "name": "Expressions are used to bind application data to html.",
+                  "isAnswer": false
+              },
+              {
+                  "id": 1056,
+                  "questionId": 1010,
+                  "name": "Expressions are written inside double braces like {{ expression}}.",
+                  "isAnswer": false
+              },
+              {
+                  "id": 1057,
+                  "questionId": 1010,
+                  "name": "Expressions behave in same way as ng-bind directives",
+                  "isAnswer": false
+              },
+              {
+                  "id": 1058,
+                  "questionId": 1010,
+                  "name": " All of the above.",
+                  "isAnswer": true
+              }
+          ],
+          "questionType": {
+              "id": 1,
+              "name": "Multiple Choice",
+              "isActive": true
+          }
+      },
+      {
+          "id": 1011,
+          "name": "AngularJS expressions behave in same way as ng-bind directives.",
+          "questionTypeId": 1,
+          "options": [
+              {
+                  "id": 1059,
+                  "questionId": 1011,
+                  "name": "false",
+                  "isAnswer": false
+              },
+              {
+                  "id": 1060,
+                  "questionId": 1011,
+                  "name": "true",
+                  "isAnswer": true
+              }
+          ],
+          "questionType": {
+              "id": 1,
+              "name": "Multiple Choice",
+              "isActive": true
+          }
+      },
+      {
+          "id": 1012,
+          "name": "Which of the following is true about ng-disabled directive?",
+          "questionTypeId": 1,
+          "options": [
+              {
+                  "id": 1062,
+                  "questionId": 1012,
+                  "name": "ng-disabled directive can enable a given control.",
+                  "isAnswer": false
+              },
+              {
+                  "id": 1063,
+                  "questionId": 1012,
+                  "name": "ng-disabled directive can disable a given control.",
+                  "isAnswer": false
+              },
+              {
+                  "id": 1064,
+                  "questionId": 1012,
+                  "name": "Both of the above.",
+                  "isAnswer": true
+              },
+              {
+                  "id": 1065,
+                  "questionId": 1012,
+                  "name": "None of the above.",
+                  "isAnswer": false
+              }
+          ],
+          "questionType": {
+              "id": 1,
+              "name": "Multiple Choice",
+              "isActive": true
+          }
+      },
+      {
+          "id": 1013,
+          "name": "$http service is used to make an Ajax call to server.",
+          "questionTypeId": 1,
+          "options": [
+              {
+                  "id": 1066,
+                  "questionId": 1013,
+                  "name": "false",
+                  "isAnswer": false
+              },
+              {
+                  "id": 1067,
+                  "questionId": 1013,
+                  "name": "true",
+                  "isAnswer": true
+              }
+          ],
+          "questionType": {
+              "id": 1,
+              "name": "Multiple Choice",
+              "isActive": true
+          }
+        },
+        {
+            "id": 1014,
+            "name": "Which components can be injected as a dependency in AngularJS?",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1068,
+                    "questionId": 1014,
+                    "name": "value",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1014,
+                    "name": "factory",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1014,
+                    "name": "service",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1071,
+                    "questionId": 1014,
+                    "name": "All of the above",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1015,
+            "name": "Custom directives are defined using directive function.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1072,
+                    "questionId": 1015,
+                    "name": "true",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1015,
+                    "name": "false",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1016,
+            "name": " AngularJS provides capability to create Single Page Application in a very clean and maintainable way.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1074,
+                    "questionId": 1016,
+                    "name": "true",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1075,
+                    "questionId": 1016,
+                    "name": "false",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1017,
+            "name": " uppercase filter is applied to an expression using pipe character",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1076,
+                    "questionId": 1017,
+                    "name": "true",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1017,
+                    "name": "false",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1018,
+            "name": "Inbuilt services are always prefixed with $ symbol.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1078,
+                    "questionId": 1018,
+                    "name": "true",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1079,
+                    "questionId": 1018,
+                    "name": "false",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1019,
+            "name": "What is the priority level of directives?",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1080,
+                    "questionId": 1019,
+                    "name": "Level 1",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1019,
+                    "name": "Level 2",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1019,
+                    "name": "Level 3",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1083,
+                    "questionId": 1019,
+                    "name": "Level 4",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        }
+  ]
+}
